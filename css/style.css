@@ -151,7 +151,7 @@ h1 {
 object-fit: cover;
 vertical-align: middle;
 gap: 1rem;
-float: left;
+float: right;
 }
 
 
@@ -196,17 +196,15 @@ p {
 p2 {
     font-family: "Roboto Slab", serif;
     font-style: normal;
-    text-align: left;
     justify-content: space-around;
-    float: right;
+    float: left;
 }
 
 p3 {
     font-family: "Roboto Slab", serif;
     font-style: normal;
-    text-align: left;
     justify-content: space-around;
-    float: right;
+    float: left;
 }
 
 .display-1 {
